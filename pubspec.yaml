@@ -1,0 +1,43 @@
+name: rapid_grub
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.0.0
+  intl: ^0.18.0  # Add the intl package here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/WhatsApp Image 2024-08-14.jpg
+    - assets/images/WhatsApp Image 2024-08-15.jpg
+    - assets/images/WhatsApp Image 2024-08-15 (2).jpg
+    - assets/images/WhatsApp Image 2024-08-15 (3).jpg
+    - assets/images/WhatsApp Image 2024-08-15 (4).jpg
+    - assets/images/WhatsApp Image 2024-08-15 (5).jpg
+    - assets/images/WhatsApp Image 2024-08-16.jpg
+    - assets/images/ClassicBurger.jpg
+    - assets/images/spicy-chicken-burgers.webp
+    - assets/images/margherita-pizza.jpg
+    - assets/images/Pepperonipizza.jpg
+    - assets/images/salmon-roll-tuna.jpg
+    - assets/images/Spicy-tuna-and-salmon-rolls_.jpg
+    - assets/images/WhatsApp Image 2024-08-15 (8).jpg
+    - assets/images/WhatsApp Image 2024-08-15 (7).jpg
+    - assets/images/WhatsApp Image 2024-08-15 (6).jpg
+    - assets/images/Ice-cream-sundae.jpg
